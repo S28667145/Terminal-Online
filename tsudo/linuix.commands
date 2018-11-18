@@ -2,4 +2,10 @@ pkg install tsudo
 pkg install cowsay
 pkg install github
 git www.github.com/S28667145/Terminal-online.git
+pkg install figlet
 connect www.terminal.tk
+pkg install sl
+pkg install pi
+pkg install zeyes
+pkg install yes
+pkg install fortune
