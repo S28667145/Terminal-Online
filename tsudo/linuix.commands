@@ -1,0 +1,5 @@
+pkg install tsudo
+pkg install cowsay
+pkg install github
+git www.github.com/S28667145/Terminal-online.git
+connect www.terminal.tk
